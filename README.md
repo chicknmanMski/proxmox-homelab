@@ -86,6 +86,4 @@ This lab was built to develop hands-on skills in network security, traffic analy
 ---
 
 ## Notes
-
-This repository documents infrastructure and methodology. No sensitive configurations, credentials, or proprietary data are included.
-https://github.com/chicknmanMski/proxmox-homelab/issues/1#issue-4195835615
+Diagram Link: https://github.com/chicknmanMski/proxmox-homelab/issues/1#issue-4195835615
